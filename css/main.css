@@ -165,24 +165,24 @@ ul li a:hover{
 .main2 .lbx dl .AI:hover{
     background: url(../images/85.png) center;
 }
-.main2 .lbx dl .vs{
+.main2 .lbx dl .VS{
     width: 81px;
     height: 31px;
     background: url(../images/vs.png) no-repeat center;
     margin-left: 35px;
     margin-top: 52px;
 }
-.main2 .lbx dl .vs:hover{
+.main2 .lbx dl .VS:hover{
     background: url(../images/80.png) center;
 }
-.main2 .lbx dl .ae{
+.main2 .lbx dl .AE{
     width: 81px;
     height: 31px;
     background: url(../images/ae.png) no-repeat center;
     margin-left: 35px;
     margin-top: 52px;
 }
-.main2 .lbx dl .ae:hover{
+.main2 .lbx dl .AE:hover{
     background: url(../images/75.png) center;
 }
 .bk2{   
